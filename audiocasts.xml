@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Audiocasts by @rickpeyton</title>
+    <link>http://audiocasts.rickpeyton.com/</link>
+    <description>A feed of audiobooks for @rickpeyton for use in Overcast.</description>
+    <image>
+      <url>http://audiocasts.rickpeyton.com/img/coverart.png</url>
+      <title>Audiocasts by @rickpeyton</title>
+      <link>http://audiocasts.rickpeyton.com/</link>
+    </image>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2015 04:28:08 CST</lastBuildDate>
+    <managingEditor>rick@rickpeyton.com</managingEditor>
+    <webMaster>rick@rickpeyton.com</webMaster>
+    <item>
+      <title>The Automatic Millionaire</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_automatic_millionaire.m4a' length='565041392' type='audio/x-m4a' />
+      <description>The Automatic Millionaire audiobook for Overcast</description>
+      <pubDate>Sat, 26 Jun 2014 09:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_automatic_millionaire.m4a</guid>
+    </item>
+    <item>
+      <title>Rework</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/Rework.mp3' length='245271260' type='audio/mpeg' />
+      <description>Rework audiobook for Overcast</description>
+      <pubDate>Sat, 26 Jun 2014 10:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/Rework.mp3</guid>
+    </item>
+    <item>
+      <title>The Abolition of Man and The Great Divorce</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_abolition_of_man_and_the_great_divorce.mp3' length='127299799' type='audio/mpeg' />
+      <description>The Abolition of Man and The Great Divorce audiobook for Overcast</description>
+      <pubDate>Sun, 27 Jun 2014 05:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_abolition_of_man_and_the_great_divorce.mp3</guid>
+    </item>
+    <item>
+      <title>The Now Habit</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_now_habit.mp3' length='215741586' type='audio/mpeg' />
+      <description>The Now Habit audiobook for Overcast</description>
+      <pubDate>Sun, 27 Jun 2014 06:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_now_habit.mp3</guid>
+    </item>
+    <item>
+      <title>Good Boss Bad Boss</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/good_boss_bad_boss.mp3' length='206287269' type='audio/mpeg' />
+      <description>Good Boss Bad Boss audiobook for Overcast</description>
+      <pubDate>Sun, 27 Jun 2014 07:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/good_boss_bad_boss.mp3</guid>
+    </item>
+    <item>
+      <title>One Click</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/one_click.mp3' length='161462689' type='audio/mpeg' />
+      <description>One Click audiobook for Overcast</description>
+      <pubDate>Sun, 27 Jun 2014 08:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/one_click.mp3</guid>
+    </item>
+    <item>
+      <title>The Best Investment Advice I Ever Received</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_best_investment_advice_i_ever_received.mp3' length='87281623' type='audio/mpeg' />
+      <description>The Best Investment Advice I Ever Received audiobook for Overcast</description>
+      <pubDate>Sun, 27 Jun 2014 09:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_best_investment_advice_i_ever_received.mp3</guid>
+    </item>
+    <item>
+      <title>The 5 Languages of Appreciation in the Workplace</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_5_languages_of_appreciation_in_the_workplace.mp3' length='176798158' type='audio/mpeg' />
+      <description>The 5 Languages of Appreciation in the Workplace audiobook for Overcast</description>
+      <pubDate>Mon, 28 Jun 2014 20:00:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_5_languages_of_appreciation_in_the_workplace.mp3</guid>
+    </item>
+    <item>
+      <title>The E-Myth Revisited</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_emyth_revisited_why_most_small_businesses_dont_work_and_what_to_do_about_it.mp3' length='583735712' type='audio/mpeg' />
+      <description>The E-Myth Revisited audiobook for Overcast</description>
+      <pubDate>Mon, 28 Jun 2014 20:40:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_emyth_revisited_why_most_small_businesses_dont_work_and_what_to_do_about_it.mp3</guid>
+    </item>
+    <item>
+      <title>Remote Office Not Required</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/remote_office_not_required.mp3' length='97344487' type='audio/mpeg' />
+      <description>Remote Office Not Required audiobook for Overcast</description>
+      <pubDate>Mon, 28 Jun 2014 20:42:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/remote_office_not_required.mp3</guid>
+    </item>
+    <item>
+      <title>Quiet, The Power of Introverts in a World that can not Stop Talking</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/quiet_the_power_of_introverts.mp3' length='367168394' type='audio/mpeg' />
+      <description>Quiet, The Power of Introverts in a World that can not Stop Talking audiobook for Overcast</description>
+      <pubDate>Mon, 28 Jun 2014 20:44:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/quiet_the_power_of_introverts.mp3</guid>
+    </item>
+    <item>
+      <title>Good to Great, Why Some Companies Make the Leap and Others Do Not</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/good_to_great_why_some_companies_make_the_leap_and_others_dont.m4a' length='869092866' type='audio/x-m4a' />
+      <description>Good to Great, Why Some Companies Make the Leap and Others Do Not audiobook for Overcast</description>
+      <pubDate>Mon, 28 Jun 2014 20:48:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/good_to_great_why_some_companies_make_the_leap_and_others_dont.m4a</guid>
+    </item>
+    <item>
+      <title>Direct Line by Earl Nightingale</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/earl_nightingale_direct_line.mp3' length='253992609' type='audio/mpeg' />
+      <description>Direct Line by Earl Nightingale audiobook for Overcast</description>
+      <pubDate>Wed, 6 Aug 2014 21:41:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/earl_nightingale_direct_line.mp3</guid>
+    </item>
+    <item>
+      <title>The 4 Hour Workweek</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_4_hour_workweek.mp3' length='375061996' type='audio/mpeg' />
+      <description>The 4 Hour Workweek audiobook for Overcast</description>
+      <pubDate>Mon, 27 Oct 2014 5:51:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_4_hour_workweek.mp3</guid>
+    </item>
+    <item>
+      <title>Think and Grow Rich by Napoleon Hill</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/think_and_grow_rich.mp3' length='276481086' type='audio/mpeg' />
+      <description>Think and Grow Rich by Napoleon Hill audiobook for Overcast</description>
+      <pubDate>Mon, 3 Nov 2014 5:27:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/think_and_grow_rich.mp3</guid>
+    </item>
+    <item>
+      <title>Essentialism The Disciplined Pursuit of Less by Greg McKeown</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/essentialism.mp3' length='154222873' type='audio/mpeg' />
+      <description>Essentialism The Disciplined Pursuit of Less by Greg McKeown audiobook for Overcast</description>
+      <pubDate>Fri, 20 Feb 2015 4:33:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/essentialism.mp3</guid>
+    </item>
+    <item>
+      <title>The Innovators by Walter Isaacson</title>
+      <enclosure url='http://audiocasts.rickpeyton.com/files/the_innovators.mp3' length='474012717' type='audio/mpeg' />
+      <description>The Innovators by Walter Isaacson audiobook for Overcast</description>
+      <pubDate>Sun, 22 Mar 2015 4:26:00 CST</pubDate>
+      <guid>http://audiocasts.rickpeyton.com/files/the_innovators.mp3</guid>
+    </item>
+  </channel>
+</rss>
